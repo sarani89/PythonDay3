@@ -63,3 +63,5 @@ print(f"'{path2}' is a directory: {os.path.isdir(path2)}")
 
 print(f"'{path3}' is a file: {os.path.isfile(path3)}")
 print(f"'{path3}' is a directory: {os.path.isdir(path3)}")
+
+
